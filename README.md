@@ -1,2 +1,2 @@
 # Ayala-Granat
-student to Ms.c
+student to Ms.c, Information system

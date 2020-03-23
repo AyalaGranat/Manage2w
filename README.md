@@ -1,4 +1,4 @@
-# Rent2w-and-manage2w
+# Rent2w-and-Manage2w
 
 Car rental management system. 
 The systems are connected to database access (Access) using SQL.
@@ -7,7 +7,7 @@ Manage2w is providing Possibility tracks (by distance and location) and manage a
 
 The systems are connected between us. they are import and export data (JSON, XML). 
 
-
+## Manage2w
 ![Manage2WERD](https://user-images.githubusercontent.com/60628997/77303365-87d9a400-6cfb-11ea-899e-506dffdcd63d.png)
 
 

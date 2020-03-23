@@ -14,3 +14,6 @@ The systems are connected between us. they are import and export data (JSON, XML
 
 ## Manage2w ERD
 ![Manage2WERD](https://user-images.githubusercontent.com/60628997/77303365-87d9a400-6cfb-11ea-899e-506dffdcd63d.png)
+
+![manage2w](https://user-images.githubusercontent.com/60628997/77308065-0dad1d80-6d03-11ea-96fe-e8ea22592153.png)
+

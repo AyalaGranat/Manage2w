@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ParkingStop_info exportDate="2020-03-23T14:43:01.083">
+  <ParkingStop ID="123">
+    <City>tel- aviv</City>
+    <Street>ben-yehuda</Street>
+    <CorX>200.0</CorX>
+    <CorY>13.0</CorY>
+    <CapacityVehicle>50</CapacityVehicle>
+  </ParkingStop>
+  <ParkingStop ID="124">
+    <City>tel- aviv</City>
+    <Street>galil</Street>
+    <CorX>17.0</CorX>
+    <CorY>56.0</CorY>
+    <CapacityVehicle>100</CapacityVehicle>
+  </ParkingStop>
+  <ParkingStop ID="125">
+    <City>ashdod</City>
+    <Street>Arbel</Street>
+    <CorX>9856.0</CorX>
+    <CorY>3596.0</CorY>
+    <CapacityVehicle>200</CapacityVehicle>
+  </ParkingStop>
+  <ParkingStop ID="126">
+    <City>reut</City>
+    <Street>Adir</Street>
+    <CorX>958.0</CorX>
+    <CorY>5429.0</CorY>
+    <CapacityVehicle>500</CapacityVehicle>
+  </ParkingStop>
+  <ParkingStop ID="127">
+    <City>Eilat</City>
+    <Street>Gorge</Street>
+    <CorX>659.0</CorX>
+    <CorY>2548.0</CorY>
+    <CapacityVehicle>800</CapacityVehicle>
+  </ParkingStop>
+  <ParkingStop ID="128">
+    <City>TEL-AVIV</City>
+    <Street>GALIL</Street>
+    <CorX>5.231</CorX>
+    <CorY>32.3156</CorY>
+    <CapacityVehicle>500</CapacityVehicle>
+  </ParkingStop>
+</ParkingStop_info>

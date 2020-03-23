@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Vehicle_info exportDate="2020-03-04T17:45:13.059">
+  <Vehicle ID="983">
+    <type>Scooter</type>
+    <LastParkingStop>126</LastParkingStop>
+  </Vehicle>
+  <Vehicle ID="984">
+    <type>Bicycle</type>
+    <LastParkingStop>126</LastParkingStop>
+  </Vehicle>
+  <Vehicle ID="985">
+    <type>Scooter</type>
+    <LastParkingStop>124</LastParkingStop>
+  </Vehicle>
+  <Vehicle ID="986">
+    <type>Scooter</type>
+    <LastParkingStop>123</LastParkingStop>
+  </Vehicle>
+  <Vehicle ID="987">
+    <type>Bicycle</type>
+    <LastParkingStop>123</LastParkingStop>
+  </Vehicle>
+  <Vehicle ID="988">
+    <type>Bicycle</type>
+    <LastParkingStop>123</LastParkingStop>
+  </Vehicle>
+  <Vehicle ID="989">
+    <type>Bicycle</type>
+    <LastParkingStop>123</LastParkingStop>
+  </Vehicle>
+  <Vehicle ID="990">
+    <type>Bicycle</type>
+    <LastParkingStop>123</LastParkingStop>
+  </Vehicle>
+  <Vehicle ID="991">
+    <type>Bicycle</type>
+    <LastParkingStop>123</LastParkingStop>
+  </Vehicle>
+  <Vehicle ID="992">
+    <type>Bicycle</type>
+    <LastParkingStop>123</LastParkingStop>
+  </Vehicle>
+  <Vehicle ID="993">
+    <type>Scooter</type>
+    <LastParkingStop>124</LastParkingStop>
+  </Vehicle>
+</Vehicle_info>

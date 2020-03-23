@@ -1,4 +1,4 @@
-<script src="https://gist.github.com/PurpleBooth/109311bb0361f32d87a2.js"></script>
+
 
 Car rental management system. 
 The systems are connected to database access (Access) using SQL.

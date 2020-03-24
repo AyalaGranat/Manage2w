@@ -1,4 +1,4 @@
-# Rent2w-and-Manage2w
+# Manage2w
 
 Car rental management system. 
 The systems are connected to database access (Access) using SQL.
